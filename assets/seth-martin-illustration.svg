@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 470" role="img" aria-labelledby="title description">
+  <title id="title">Illustrated portrait</title>
+  <desc id="description">A friendly illustrated portrait of a light-skinned man with brown hair and a green shirt.</desc>
+  <defs>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#7c9655"/>
+      <stop offset="1" stop-color="#506d46"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f1c8a7"/>
+      <stop offset="1" stop-color="#dba782"/>
+    </linearGradient>
+  </defs>
+  <circle cx="211" cy="220" r="174" fill="#d5dec9"/>
+  <path d="M72 445c10-81 65-127 138-127s130 45 139 127H72Z" fill="url(#shirt)"/>
+  <path d="M181 287h61v50c0 19-13 34-30 34s-31-15-31-34v-50Z" fill="url(#skin)"/>
+  <path d="M126 176c0-73 36-115 88-115 57 0 91 42 91 117v49c0 67-36 112-93 112-51 0-86-44-86-110v-53Z" fill="url(#skin)"/>
+  <path d="M123 205c-14-47-14-92 5-123 17-27 40-37 70-43-8 16-18 26-33 34 32-20 70-24 109-7 41 18 55 56 51 107-3 30-12 52-18 64l-11-46c-27-2-51-12-70-30-21 20-56 35-96 38l-5 52-2 27c-20-18-29-43-28-76l28 3Z" fill="#79553d"/>
+  <path d="M153 204c16-9 34-12 52-8" fill="none" stroke="#694832" stroke-linecap="round" stroke-width="7"/>
+  <path d="M229 196c17-8 34-8 49-1" fill="none" stroke="#694832" stroke-linecap="round" stroke-width="7"/>
+  <ellipse cx="180" cy="222" rx="5" ry="7" fill="#302f2a"/>
+  <ellipse cx="251" cy="218" rx="5" ry="7" fill="#302f2a"/>
+  <path d="M212 218c-2 18-4 34-12 43 7 6 16 8 25 5" fill="none" stroke="#c68d6c" stroke-linecap="round" stroke-width="5"/>
+  <path d="M184 278c17 13 38 14 57-1" fill="none" stroke="#965f4d" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="147" cy="248" r="13" fill="#e5ad8c" opacity=".58"/>
+  <circle cx="276" cy="245" r="13" fill="#e5ad8c" opacity=".58"/>
+  <path d="M91 445c8-42 27-72 58-90l43 90H91Zm236 0c-8-42-28-72-58-90l-43 90h101Z" fill="#8ba263"/>
+</svg>
